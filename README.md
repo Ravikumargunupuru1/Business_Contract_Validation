@@ -20,7 +20,7 @@ The application processes contract documents uploaded in PDF format, leveraging 
 
 ### Forking the Repository
 
-1. **Fork the Repository:** Click the "Fork" button on the top-right corner of the [GitHub repository page](https://github.com/Kulashekar01/Business_Contract_Validation).
+1. **Fork the Repository:** Click the "Fork" button on the top-right corner of the [GitHub repository page](https://github.com/Ravikumargunupuru1/Business_Contract_Validation).
 2. **Clone Your Forked Repository:** Run the following command:
    ```bash
    git clone https://github.com/your-username/business_contract_validation.git
